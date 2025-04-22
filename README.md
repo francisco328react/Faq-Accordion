@@ -5,4 +5,4 @@ The challenge for the front-end mentor site was to create a results summary comp
 
 # Styling Tools Used
 - HTML5 Semantic
-- CSS3 Responsiveness
+- CSS3 (FlexBox / Responsiveness )
